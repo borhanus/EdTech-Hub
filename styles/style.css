@@ -1,17 +1,12 @@
 *{
     font-family: 'Poppins', sans-serif;
 }
-.ed-nav{
-    display: flex;
-    justify-content: space-between;
-    /* margin: 0!important; */
+.course-head {
     
-}
-.ed-nav2{
-    gap: 5px;
-    justify-content: space-evenly;
-    justify-items: center;
-    text-align: center;
-    display: flex;
-
-}
+  }
+  
+  @media (min-width: 1200px) {
+    .course-head {
+      
+    }
+  }
