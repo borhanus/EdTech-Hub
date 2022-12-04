@@ -1,12 +1,24 @@
-*{
+* {
     font-family: 'Poppins', sans-serif;
 }
-.course-head {
-    
-  }
-  
-  @media (min-width: 1200px) {
-    .course-head {
-      
-    }
-  }
+.learning {
+    background: #F4FAFD;
+}
+.carousel-controllers{
+    background-color: #289BDE;
+    width:47px;
+    height: 47px;
+    top: 44%;
+}
+.carousel-left{
+    left: -11px;
+}
+.carousel-right{
+    right: -11px;
+}
+.frequent-button:not(.collapsed){
+    background-color: #289BDE;
+}
+.accordion-bg:hover{
+    /* opacity: 1;  .accordion-button:not(.collapsed) */
+}
