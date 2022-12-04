@@ -1,0 +1,17 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.ed-nav{
+    display: flex;
+    justify-content: space-between;
+    /* margin: 0!important; */
+    
+}
+.ed-nav2{
+    gap: 5px;
+    justify-content: space-evenly;
+    justify-items: center;
+    text-align: center;
+    display: flex;
+
+}
