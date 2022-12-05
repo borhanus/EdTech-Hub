@@ -1,6 +1,7 @@
 * {
     font-family: 'Poppins', sans-serif;
 }
+
 .learning {
     background: #F4FAFD;
 }
@@ -19,6 +20,16 @@
 .frequent-button:not(.collapsed){
     background-color: #289BDE;
 }
-.accordion-bg:hover{
-    /* opacity: 1;  .accordion-button:not(.collapsed) */
+.social a{
+    color: #ffffff;
 }
+.social a i{
+    width: 40px;
+    height: 40px;
+}
+
+
+
+
+
+
